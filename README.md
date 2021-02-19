@@ -14,3 +14,5 @@ As previously implemented, the server should be able to handle a POST request th
 As previously implemented, your server should allow a user to alter the parts of one of the tanks after it has been posted. The server should allow the requester to make a JSON body with any combination of the four attributes and update them as necessary.
 * DELETE /data/:id
 Your server should allow the requester to delete any previously POSTed object.
+# Joke
+* What did the bald man exclaim when he received a comb for a present? Thanks— I’ll never part with it! :)
